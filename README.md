@@ -1,16 +1,34 @@
-## Hi there 👋
+# Efrain
 
-<!--
-**Bat4E/Bat4E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Junior Computer Science student, currently working on building Data Structures from scratch. I love learning about what we can do with our programming skills. I'm hoping to learn how to develop Software in the future as well as becoming a Game Developer. I'm open to working with anything programming related in any programming language.
 
-Here are some ideas to get you started:
+## Skills
+-Programming Languages:
+-C++
+-HTML/CSS Basics
+-Javascript Basics
+-Lua script Basics
+-x86 Assembly with MASM Win 32-bit framework
+-Haskell Basics
+-Some Python basics
+-Unix commands basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Developments tools:
+-VS Code
+-Microsoft Visual Studio
+-Git
+-Github basics
+
+Technologies: 
+-Data Structures
+-Algorithms
+-Object-Oriented Programming
+-Multi-threaded Programming
+-2D Game Development
+
+## Contact Information
+-Email: efradiazvaldez@gmail.com
+
+## GitHub Stats
+!Bat4E's GitHub stats
