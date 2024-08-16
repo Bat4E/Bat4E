@@ -31,4 +31,4 @@ Technologies:
 -Email: efradiazvaldez@gmail.com
 
 ## GitHub Stats
-!Bat4E's GitHub stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bat4E&show_icons=true&hide_border=true%29)
