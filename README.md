@@ -1,7 +1,7 @@
 # Efrain
 
 ## About Me
-I'm a Junior Computer Science student, currently working on building Data Structures from scratch. I love learning about what we can do with our programming skills. I'm hoping to learn how to develop Software in the future as well as becoming a Game Developer. I'm open to working with anything programming related in any programming language.
+I'm a Senior Computer Science student, currently working on building Data Structures from scratch. I love learning about what we can do with our programming skills. I'm hoping to learn how to develop Software in the future as well as becoming a Game Developer. I'm open to working with anything programming related in any programming language.
 
 ## Skills
 -Programming Languages:
