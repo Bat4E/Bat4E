@@ -27,6 +27,9 @@ Technologies:
 -Multi-threaded Programming
 -2D Game Development
 
+## Certifications
+-[React Foundations - Vercel](https://nextjs.org/learn/certificate?course=react-foundations&user=80093&certId=react-foundations-80093-1752453236336)
+
 ## Contact Information
 -Email: efradiazvaldez@gmail.com
 
